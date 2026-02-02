@@ -45,14 +45,6 @@ Uma página inicial responsiva com relógio, barra de pesquisa e atalhos rápido
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLuciano1429&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLuciano1429&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Como me encontrar
 
 - 💼 LinkedIn: [Aqui!](https://www.linkedin.com/in/joaolucianosd/)
